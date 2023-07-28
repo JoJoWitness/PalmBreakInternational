@@ -9,7 +9,7 @@ function Footer()  {
       
     <div class="footer_L d-flex " >
         <div style="width: 150px;"> 
-            <img src="./assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
+            <img src="../assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
         </div>
     </div>
     <div class="footer_M d-flex column-gap-5 px-5" >
@@ -42,12 +42,12 @@ function Footer()  {
     <div class="footer_R d-flex flex-column row-gap-3" >
         <h3 class="fs-5" style="color: #1E94B1;">Contact Us</h3>
         <div class="d-flex align-items-center p-2 column-gap-2" style="height: 22px;">
-            <img src="./assets/Icons/location_on_FILL1_wght300_GRAD0_opsz48.svg" style="color: #1E94B1; width: 18px;"/>
+            <img src="../assets/Icons/location_on_FILL1_wght300_GRAD0_opsz48.svg" style="color: #1E94B1; width: 18px;"/>
             <p class="m-0">Cancun, Quintana Roo, Mexico</p>
         </div>
     
         <div class="d-flex align-items-center p-2 column-gap-2" style="height: 22px;">
-            <img src="./assets/Icons/mail_FILL1_wght300_GRAD0_opsz48.svg" style="color: #1E94B1; width: 18px;"/>
+            <img src="../assets/Icons/mail_FILL1_wght300_GRAD0_opsz48.svg" style="color: #1E94B1; width: 18px;"/>
             <p class="m-0">palmbreakinternational@gmail.com</p>
         </div>
     

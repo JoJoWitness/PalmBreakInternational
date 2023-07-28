@@ -9,7 +9,7 @@ function Footer()  {
       
     <div class="footer_L d-flex " >
         <div style="width: 150px;"> 
-            <img src="../assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
+            <img src="./assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
         </div>
     </div>
     <div class="footer_M d-flex column-gap-5 px-5" >

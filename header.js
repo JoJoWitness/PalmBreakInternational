@@ -7,7 +7,7 @@ function Header()  {
 
     const headerFragment = range.createContextualFragment(`
         <div style="width: 90px;"> 
-            <img src="../assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
+            <img src="./assets/UI/logo-PBI.png"  style="width: 100%;" alt="Logo">
         </div>
 
         <nav class="navbar navbar-expand-lg row-gap-5 " style="background-color: #fcfcfc ; width: 70%;"> 
